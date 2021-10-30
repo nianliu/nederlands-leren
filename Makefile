@@ -6,3 +6,10 @@ html:
 
 pdf:
 	${docker_run} asciidoctor-pdf ${file}
+
+index: html
+	cp ${file} index.html
+
+page: index
+	git add -A
+	git commit -m "deploy ${shell date}"
