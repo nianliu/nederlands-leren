@@ -28,6 +28,7 @@ Schrijft een lange klank met een klinker in een open lettergreep, en met twee kl
 | studeren | stu-de-ren | studeer  _(*stu* keeps unchanged because it remains an open syllable)_
 | sturen | stu-ren | stuur
 | schrijven | schrij-ven | schrijf
+| nemen | ne-men | neem
 |===
 
 ==== Woordenlijst
@@ -108,6 +109,34 @@ uw adres
 * de herfst / het najaar
 * de winter
 
+=== Normale dag
+Wat doe je op een normale dag?
+[cols="2,4", grid=none]
+|===
+| ontbijten                       | Ik ontbijten om half negen.
+| eten                            | Ik eet eieren en een boterham.
+| drinken                         | Ik drink een kopje melk.
+| werken                          | Ik werk van half tien tot vijf uur.
+| praten met collega's            | Ik praat met mijn collega's over programmeerproblemen, bugs, etc.
+| hebben meetings                 | Wij hebben heel veel meetings.
+| code schrijven                  | Ik schrijf code.
+| code testen                     | Ik test geen code
+| e-mails schrijven               | Meestal schrijf ik e-mails in het Engels.
+| e-mails lezen / checken         | Ik lees mijn e-mails na standup.
+| pauze nemen                     | Ik neem elk uur pauze.
+| koffie drinken                  | Je drinkt koffie.
+| lunchen                         | Je luncht om half een.
+| kletsen met collega's           | Je kletst met collega's. Klets je met collega's?
+| rijden                          | Hij rijdt auto.
+| met mijn dochter spelen         | Wij spelen met onze dochter.
+| mijn dochter verschonen         | Ik verschoon mijn dochter.
+| mijn dochter wassen             | Mijn vrouw wast onze dochter.
+| mijn dochter naar bed brengen   | Zij brengt mijn dochter naar bed.
+| Netflix kijken                  | 's Avonds kijk ik Netflix.
+| huiswerk maken                  | Ik maak Nederlands huiswerk.
+| huizen bezichtigen              | We bezichtigen huizen.
+|===
+
 
 === Huiswerk
 ==== Vraagwoorden (p.37 opdracht 3)
@@ -158,3 +187,10 @@ Vul in: *op*, *om* of *in*
 . Hij is *op* 23 mei 1991 geboren.
 
 <<<
+
+
+== Zinnen
+|===
+| Wij gaan door!
+| Ok, dan gaan we door!
+|===
