@@ -11,82 +11,36 @@ Nian Liu <https://www.linkedin.com/in/nliu89>
 * Bij een *open lettergreep* is het zo, dat er een *klinker* aan het einde van de lettergreep staat.
 * Bij een *gesloten lettergreep* zie je steeds een *medeklinker* aan het einde van de lettergreep staan.
 
+
 ==== Lange klank
 Schrijft een lange klank met een klinker in een open lettergreep, en met twee klinkers in een gesloten lettergreep.
 
 [%header, cols=3]
 |===
-
-| zijn / wij / jullie
-| lettergrepen
-| ik
-
-| eten
-| e-ten
-| eet
-
-
-| praten
-| pra-ten
-| praat
-
-| lopen
-| lo-pen
-| loop
-
-| lezen
-| le-zen
-| lees
-
-| kopen
-| ko-pen
-| koop
-
-| koppen
-| kop-pen
-| kop
-
-| spellen
-| spel-len
-| spel
-
-| spelen
-| spe-len
-| speel
-
-| studeren
-| stu-de-ren
-| studeer  _(*stu* keep the same because it is still an open syllable)_
-
-| sturen
-| stu-ren
-| stuur
-
+| zijn / wij / jullie | lettergrepen | ik
+| eten | e-ten | eet
+| praten | pra-ten | praat
+| lopen | lo-pen | loop
+| lezen | le-zen | lees
+| kopen | ko-pen | koop
+| koppen | kop-pen | kop
+| spellen | spel-len | spel
+| spelen | spe-len | speel
+| studeren | stu-de-ren | studeer  _(*stu* keep the same because it is still an open syllable)_
+| sturen | stu-ren | stuur
+| schrijven | schrij-ven | schrijf
 |===
 
-
-.Woordenlijst
+==== Woordenlijst
 [%header, cols=2]
 |===
-| Nederlands
-| Engles
-
-| lettergreep
-| syllable
-
-| klinker
-| vowel
-
-| medeklinker
-| consonant
-
-| lange klank
-| long sound
-
-| korte klank
-| short sound
-
-| meervoud
-| plural
+| Nederlands | Engles
+| lettergreep | syllable
+| klinker | vowel
+| medeklinker | consonant
+| lange klank | long sound
+| korte klank | short sound
+| meervoud | plural
 |===
 
+<<<
