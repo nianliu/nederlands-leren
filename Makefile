@@ -1,4 +1,5 @@
 root = $(shell pwd)
+msg = "deploy"
 file = "notities"
 adoc = ${file}.adoc
 html = ${file}.html
@@ -17,5 +18,5 @@ index: html
 
 git:
 	git add -A
-	git commit -m "deploy ${shell date}"
+	git commit -m "${msg}"
 	git push
