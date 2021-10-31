@@ -5,7 +5,7 @@ html = ${file}.html
 docker_run = docker run --rm -v ${root}:/documents/ asciidoctor/docker-asciidoctor
 	
 all: index git
-	
+
 html:
 	${docker_run} asciidoctor ${adoc}
 
@@ -19,6 +19,3 @@ git:
 	git add -A
 	git commit -m "deploy ${shell date}"
 	git push
-
-
-	
