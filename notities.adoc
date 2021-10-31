@@ -3,9 +3,7 @@ Nian Liu <https://www.linkedin.com/in/nliu89>
 :sectnums:
 :toc:
 
-<<<
-
-== Les een
+== Les een [25/10/2021]
 
 === Spelling
 
@@ -44,8 +42,6 @@ Schrijft een lange klank met een klinker in een open lettergreep, en met twee kl
 | meervoud | plural
 |===
 
-'''
-
 === Klokkijken
 |===
 | 11:00 | elf uur
@@ -66,8 +62,6 @@ Schrijft een lange klank met een klinker in een open lettergreep, en met twee kl
 | 11:00 - 11:01 | een minuut
 |===
 
-'''
-
 === Vraagwoordvragen
 * *Wie* is hun docent?
 * *Hoe* gaat het met jou?
@@ -77,5 +71,90 @@ Schrijft een lange klank met een klinker in een open lettergreep, en met twee kl
 * Op *welke* dag van de week hebben we de cursus Nederlands?
 * *Wanneer* is jouw verjaardag?
 * *Waarom* kom je naar Nederland?
+
+=== Possessief pronomen
+[%header, cols=2]
+|===
+| subject | possessief pronomen
+| ik | mijn broer
+
+| jij / je +
+u
+| jouw / je ouders +
+uw adres
+
+| hij | zijn werk
+| zij / ze | haar foto
+
+| wij / we
+| onze les +
+  ons adres
+
+| jullie | jullie docent
+| zij / ze | hun familie
+|===
+
+=== Maanden en seizoenen
+==== maanden
+[grid=none]
+|===
+| januari | februari | maart | april
+| mei | juni | juli | augustus
+| september | oktober | november | december
+|===
+==== seizoenen
+* de lente / het voorjaar
+* de zomer
+* de herfst / het najaar
+* de winter
+
+
+=== Huiswerk
+==== Vraagwoorden (p.37 opdracht 3)
+[cols=2, grid=none]
+|===
+| 1  *Hoe* heet jouw zus?                      | Mijn zus heet Sandra
+| 2  *Wat* doe je vandaag?                    | Ik ga naar de cursus.
+| 3  *Waar* woont Astrid?                      | Astrid woont in de Brugstraat.
+| 4  *Welke* cursus doe je?                    | Ik doe nu cursus 1.
+| 5  *Wie* heeft mijn boek?                    | Ik. Ik heb jouw boek.
+| 6  *Hoe* laat is het?                        | Het is nu tien voor twee.
+| 7  *Waar* zijn de docenten?                  | De docenten zijn in de kantine.
+| 8  *Wie* komen uit Australie?                | Peter en Aice komen uit Australie.
+| 9  *Waar* komt Patrick vandaan?              | Patrick komt uit Maastricht.
+| 10 *Welke* dag is het?                       | Het is vandaag maandag.
+| 11 Over *welke* vakantie vertelt Jeroen?     | Hij vertelt over zijn zomervakantie.
+| 12 Met *wie* zit je in de kantine?           | Ik zit met Petra in de kantine.
+| 13 *Waarom* is je broer in China?            | Hij is daar voor zijn werk.
+| 14 *Hoeveel* zussen heb je?                  | Ik heb twee zussen.
+|===
+
+==== Possessief pronomen (p.38 opdracht 4)
+. Wij wonen nu in Zwolle. *Ons* adres is Rozenstraat 8.
+. Ik woon in Amersfoort en *mijn* zus woont in Rotterdam.
+. Mevrouw Jansen, gaat u met *uw* broer op vakantie?
+. Vera en Hilda, vertellen jullie eens over *jullie* vakantie.
+. Dit is Farah en *haar* achternaam is Ahmany.
+. Herman, de docent, spreekt met *zijn* buurman over de cursus.
+. Wij komen uit polen en *onze* cursus begint maandag.
+. Edit en Ning zitten met *hun* docent in de kantine.
+. Theresa, woont *je* familie ook in Nederland?
+. Peter moet voor *zijn* werk naar Indonesie.
+
+==== Maanden en seizoenen (p.41 opdracht 10)
+Vul in: *op*, *om* of *in*
+
+. De cursus begint *op* maandag 8 april, *om* 9.00 uur.
+. Heb jij ook les *op* dinsdag?
+. De tweede cursus begint *in* januari.
+. We zijn *om* 9.45 uur in Amsterdam.
+. Fred is *op* 12 augustus jarig.
+. Ben jij ook *in* de zomer jarig?
+. Bart en Eva zijn *in* 2017 getrouwd.
+. *Op* welke datum zijn ze getrouwd?
+. Ze zijn *op* 7 juli getrouwd.
+. We gaan *om* 10.30 uur naar de kantine.
+. Gerard en Senna gaan *in* oktober op vakantie.
+. Hij is *op* 23 mei 1991 geboren.
 
 <<<
