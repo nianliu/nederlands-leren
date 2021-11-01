@@ -66,7 +66,7 @@ Schrijft een lange klank met een klinker in een open lettergreep, en met twee kl
 === Vraagwoordvragen
 * *Wie* is hun docent?
 * *Hoe* gaat het met jou?
-* *Hoeveel* dagen heeft een week?
+* *Hoeveel* dagen heeft een week? *Hoeveel* kost het?
 * *Wat* is jouw naam?
 * *Waar* ga je op vakantie?
 * Op *welke* dag van de week hebben we de cursus Nederlands?
@@ -137,7 +137,6 @@ Wat doe je op een normale dag?
 | huizen bezichtigen              | We bezichtigen huizen.
 |===
 
-
 === Huiswerk
 ==== Vraagwoorden (p.37 opdracht 3)
 [cols=2, grid=none]
@@ -186,11 +185,33 @@ Vul in: *op*, *om* of *in*
 . Gerard en Senna gaan *in* oktober op vakantie.
 . Hij is *op* 23 mei 1991 geboren.
 
+==== Normale zaterdag
+- We gaan buiten spelen met onze dochter.
+- Mijn dochter speelt in de speeltuin met andere jongens en meisjes.
+- 's Morgens gaan we koffie drinken in een cafe in onze buurt.
+- Soms gaan we lunchen in een Thais restaurant.
+- Mijn vrouw videochat met haar ouders.
+- We bezoeken vrienden.
+- We gaan boodschappen doen met fiets als het niet regent.
+- We maken thuis schoon.
+- Mijn dochter helpt me met het schoonmaken van de vloer. (or voor?)
+
+==== Situaties
+
+
 <<<
 
+== Bijlage
 
-== Zinnen
+=== Zinnen
 |===
 | Wij gaan door!
 | Ok, dan gaan we door!
 |===
+
+=== Links
+https://www.youtube.com/watch?v=ZCA2DyqYvF0&ab_channel=LearnDutchwithBartdePau[Learn Dutch Alphabet + Pronunciation]
+
+https://www.taal-oefenen.nl/[taal-oefenen.nl]
+
+https://www.rekenen.nl/klokkijken/analoge-klok/[Klokkijken]
