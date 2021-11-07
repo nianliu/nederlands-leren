@@ -70,7 +70,7 @@ Schrijft een lange klank met een klinker in een open lettergreep, en met twee kl
 * *Hoeveel* dagen heeft een week? *Hoeveel* kost het?
 * *Wat* is jouw naam?
 * *Waar* ga je op vakantie?
-* Op *welke* dag van de week hebben we de cursus Nederlands?
+* Op *welke* dag van de week hebben we de Nederlands les?
 * *Wanneer* is jouw verjaardag?
 * *Waarom* kom je naar Nederland?
 
@@ -114,10 +114,10 @@ uw adres
 [cols="1,5,4"]
 |===
 
-| -en | Het substantief krijgt *-en* wanner het uit een syllabe bestaat | fietsen, boeken
+| -en | Het substantief krijgt *-en* wanneer het uit een syllabe bestaat | fietsen, boeken
 
 .2+| -s
-| Het substantief krijgt een *-s* wanner het bestaat uit tweee of meer syllabes en eindigt op *-el*, *-em*, *-en*, *-er*, *-je* of *-e* | aardappels, modems, jongens, buitenlanders, biertjes, kantines
+| Het substantief krijgt een *-s* wanneer het bestaat uit tweee of meer syllabes en eindigt op *-el*, *-em*, *-en*, *-er*, *-je* of *-e* | aardappels, modems, jongens, buitenlanders, biertjes, kantines
 | Buitenlandse woorden krijgen meestal een *-s* | films, champignons
 
 | '-s | Het eindigt op *-a*, *-i*, *-o*, *-u* of *-y* | paprika's, kiwi's, auto's, foto's, menu's, hobby's
