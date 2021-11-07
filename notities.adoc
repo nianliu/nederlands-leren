@@ -29,13 +29,14 @@ Schrijft een lange klank met een klinker in een open lettergreep, en met twee kl
 | sturen | stu-ren | stuur
 | schrijven | schrij-ven | schrijf
 | nemen | ne-men | neem
+| staan | staan | sta
 |===
 
 ==== Woordenlijst
 [%header, cols=2]
 |===
 | Nederlands | Engles
-| lettergreep | syllable
+| lettergreep / syllabe | syllable
 | klinker | vowel
 | medeklinker | consonant
 | lange klank | long sound
@@ -108,6 +109,22 @@ uw adres
 * de zomer
 * de herfst / het najaar
 * de winter
+
+=== Pluralis
+[cols="1,5,4"]
+|===
+
+| -en | Het substantief krijgt *-en* wanner het uit een syllabe bestaat | fietsen, boeken
+
+.2+| -s
+| Het substantief krijgt een *-s* wanner het bestaat uit tweee of meer syllabes en eindigt op *-el*, *-em*, *-en*, *-er*, *-je* of *-e* | aardappels, modems, jongens, buitenlanders, biertjes, kantines
+| Buitenlandse woorden krijgen meestal een *-s* | films, champignons
+
+| '-s | Het eindigt op *-a*, *-i*, *-o*, *-u* of *-y* | paprika's, kiwi's, auto's, foto's, menu's, hobby's
+
+| | Onregelmatige vormen | stad -> steden, kind -> kinderen, ei -> eieren
+
+|===
 
 === Normale dag
 Wat doe je op een normale dag?
