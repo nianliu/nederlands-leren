@@ -137,7 +137,7 @@ Wat doe je op een normale dag?
 | praten met collega's            | Ik praat met mijn collega's over programmeerproblemen, bugs, etc.
 | hebben meetings                 | Wij hebben heel veel meetings.
 | code schrijven                  | Ik schrijf code.
-| code testen                     | Ik test geen code
+| code testen                     | Ik test geen code.
 | e-mails schrijven               | Meestal schrijf ik e-mails in het Engels.
 | e-mails lezen / checken         | Ik lees mijn e-mails na standup.
 | pauze nemen                     | Ik neem elk uur pauze.
@@ -213,17 +213,124 @@ Vul in: *op*, *om* of *in*
 - We maken het huis schoon.
 - Mijn dochter helpt me met het schoonmaken van de vloer.
 
-==== Situaties
+
+<<<
+
+== Les twee [01/11/2021]
+=== Kletsen
+|===
+| Ik kom net uit een vergadering. | I just got out of a meeting.
+| Ik heb vandaag heel veel vergaderingen. |
+| Elke vergadering duurt heel lang. |
+| Zijn ze saai of interessant? Allebei |
+| Sommige zijn saai en sommige zijn interessant. |
+
+| We blijven bijna het hele weekend thuis. |
+| We zijn bijna het hele weekend thuis gebleven. |
+
+| Ik ben jarig op 1 januari. |
+| Ik ben geboren op 1 januari 1999. |
+
+|===
+
+=== "ga naar"
+[cols=2]
+|===
+| met artikel (de, het)
+| Ik ga naar de markt. +
+  Ik ga naar de ziekenhuis. +
+  Ik ga naar de kantine.
+
+| zonder artikel (固定搭配)
+| Ik ga naar huis. +
+  Ik ga naar kantoor. +
+  Ik ga naar bed. +
+  Ik ga naar school. +
+  Ik ga naar Nederlandse les.
+|===
+
+
+=== Modale werkwoorden
+
+==== Met infinitief
+Vaak komt er een infinitief na een modaal werkwoord. Die infinitief staat meestal aan het einde van de zin.
+
+* Mag ik tien meer minuten spelen? Ja, dat mag wel. / Nee, dat mag niet.
+* Mag ik jouw soep ook even proeven?
+* We moeten oefening 3 ook maken.
+
+==== Zonder infinitief
+* Ik will graag koffie.
+* Ik moet naar de les.
+
+==== Oefenen
+
+===== Nederlands in gang - hoofdstuk 6 In een restaurant - Opdracht 4 (p.90)
+Welk werkwoord is logisch in de zin?
+
+. Wat *zullen* we drinken? Wijn?
+. Mijn ouders *kunnen* niet op mijn verjaardag komen.
+. Hans *wil* een jaar in Canada wonen.
+. Aan mijn tafel *kunnnen* vier personen zitten.
+. Jullie *moeten* deze opdracht maken.
+. Jullie *mogen* samenwerken.
+. Ik ben jarig. Ik *wil* een rondje geven.
+. *Mag* ik u iets vragen?
+. *Zal* ik morgen om half negen komen?
+. *Kunnen* veel Nderlanders Engels spreken?
+
+===== Nederlands in gang - hoofdstuk 6 In een restaurant - Opdracht 5 (p.90)
+Vul een vorm in van *mogen*, *willen*, *moeten*, *kunnen* of *zullen*. Wat is logisch?
+
+. *Wil* je in dit cafe ook iets eten?
+. Je *kan* deze soep eens proven. Heerlijk!
+. Je *kunnen* ook alleen een voorgerecht nemen. Dat is goed.
+. Ik houd van vis. Ik *wil* de paella.
+. *Kan* je nu al Nederlands spreken? Wat goed!
+. Mijn achternaam is Alasadi. *Zal* ik het even spellen?
+. *Mag* ik twee koffie en een glas water alstublieft?
+. Jonas is zestien jaar. *Mag* hij bier bestellen in een café?
+
+=== Hoofdzin met inversie
+
+===== Nederlands in gang - huufdstuk 3 In het café - Opdracht 6 (p.52)
+
+[cols=2]
+|===
+
+| 1. Joyce is donderdag jarig. | Donderdag is Joyce jarig.
+| 2. We drinken koffie in de kantine. | In de kantine drinken we koffie. (met "," ?)
+| 3. Ze zjin op het moment in Indonesië. | Op het moment zijn ze in Indonesië.
+| 4. Ik weet dat niet. | Dat weet ik niet.
+| 5. Ze wonen in de winter in Barcelona. | In de winter wonen ze in Barcelona.
+
+|===
+
+
+
 
 
 <<<
 
 == Bijlage
 
-=== Zinnen
+=== Uitspraak
+==== ië
+|===
+| ie -> [i:]  | lied, dieren
+| ië -> [i-e] | Australië, België, Italië, Indonesië
+|===
+
+=== In de klas
 |===
 | Wij gaan door!
 | Ok, dan gaan we door!
+| Kun je de dialoog voorlezen?
+| Wat zijn de verschillen tussen A en B?
+| Twee vliegen in een klap
+| Ik snap het!
+| Ik begrijp het!
+| Duidelijk!
 |===
 
 === Links
@@ -232,3 +339,5 @@ https://www.youtube.com/watch?v=ZCA2DyqYvF0&ab_channel=LearnDutchwithBartdePau[L
 https://www.taal-oefenen.nl/[taal-oefenen.nl]
 
 https://www.rekenen.nl/klokkijken/analoge-klok/[Klokkijken]
+
+https://zichtbaarnederlands.nl/[Zichtbaar Nederlands.nl]
