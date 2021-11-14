@@ -19,7 +19,8 @@ v - "vraagwoordvragen" and "zandbak" pronouce "t" or "d"?
 
 v - huizen bezichtigen:  is that search or view?
     it is view
-- where to put "niet" Ik schrijf code niet. / Ik test geen code.  Het regent niet / Het niet regent.
+v - where to put "niet" Ik schrijf code niet. / Ik test geen code.
+    Het regent niet.
     let's have a session especially focus on this
 - how to pronouce "uren", "geboren"
 - Wanneer is jouw verjaardag? / Wanner ben je jarig?
@@ -60,12 +61,14 @@ Ik heb de menu kaart ophalen.
 
 # Vragen
 - "rijdt", how to pronouce? dt or t?
+    T
 - how to use "er"
+    discuss later
 - wanneer maakt een zin met modaal werkwoord zonder infinitief? enige regels?
 -
 
 ========================================================================================================================
 
-
-
+kijken naar de code
+de code bekijken  - without Preposition , reflecting, discussion. get into, close look
 

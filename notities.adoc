@@ -3,18 +3,67 @@ Nian Liu <https://www.linkedin.com/in/nliu89>
 :sectnums:
 :toc:
 
-== Les een [25/10/2021]
+== Zinsbouw basiszinnen
 
-=== Spelling
+https://www.dutchgrammar.com/nl/?n=WordOrder.00
 
-==== Open / Gesloten lettergrepen
+https://zichtbaarnederlands.nl/nl/zinsbouw/zinsbouw
+
+=== De hoofdzin
+
+`*wie/wat + weerkwoord + wanneer + object + waar*` +
+Jij eet vandaag een appel op school.
+
+`Na de woorden: *want*, *maar*, *en*, *of*, *dus*.` +
+Ik kom niet naar school want ik ben ziek.
+
+=== Inversie
+
+==== Vraagzin met werkwoord
+
+`*werkwoord + wie/wat + wanneer + object + waar*` +
+Eet jij vandaag een appel op school?
+
+==== Vraagzin met vraagwoord
+
+`*vraagwoord + werkwoord + wie/wat + wanneer + waar*` +
+Wat eet jij vandaag op school?
+
+==== Gewone zin met inversie - Je begint met iets anders
+
+`*iets anders + werkwoord + wie/wat + object*` +
+Vandaag eet jij een appel. +
+Op school eet jij vandaag een appel.
+
+_Iets anders zoals de woorden: nu, dan, straks, gisteren, eerst, daarna, daarom, toch, misschien, in Hilversum, op school, hier._
+
+=== De bijzin
+
+`*Omdat + wie/wat + wanneer + object + waar + werkwoord(en)*` +
+Omdat ik vandaag ziek thuis ben.
+Omdat ik gisteren ziek ben geweest.
+
+* `Na de woorden: *als*, *terwijl*, *hoewel*, *toen*, *dat*, *die*, *en na*`
+* `Vraagwoorden in het midden van de zin: ... *wie* ... *waar* ... *hoe* ...`
+
+==== De bijzin, inversie
+
+* Omdat ik vandaag ziek ben, kom ik niet naar school.
+* Als ze verdrietig is, moet ze altijd huilen.
+* Terwijl ik huiswerk maak, luister ik naar de radio.
+
+== Spelling
+
+=== Open / Gesloten lettergrepen
+
 * Bij een *open lettergreep* is het zo, dat er een *klinker* aan het einde van de lettergreep staat.
 * Bij een *gesloten lettergreep* zie je steeds een *medeklinker* aan het einde van de lettergreep staan.
 
-==== Lange klank
+=== Lange klank
+
 Schrijft een lange klank met een klinker in een open lettergreep, en met twee klinkers in een gesloten lettergreep.
 
-[%header, cols=3]
+[%header,cols=3]
 |===
 | zijn / wij / jullie | lettergrepen | ik
 | eten | e-ten | eet
@@ -25,15 +74,16 @@ Schrijft een lange klank met een klinker in een open lettergreep, en met twee kl
 | koppen | kop-pen | kop
 | spellen | spel-len | spel
 | spelen | spe-len | speel
-| studeren | stu-de-ren | studeer  _(*stu* keeps unchanged because it remains an open syllable)_
+| studeren | stu-de-ren | studeer _(*stu* keeps unchanged because it remains an open syllable)_
 | sturen | stu-ren | stuur
 | schrijven | schrij-ven | schrijf
 | nemen | ne-men | neem
 | staan | staan | sta
 |===
 
-==== Woordenlijst
-[%header, cols=2]
+=== Woordenlijst
+
+[%header,cols=2]
 |===
 | Nederlands | Engles
 | lettergreep / syllabe | syllable
@@ -44,7 +94,8 @@ Schrijft een lange klank met een klinker in een open lettergreep, en met twee kl
 | meervoud | plural
 |===
 
-=== Klokkijken
+== Klokkijken
+
 |===
 | 11:00 | elf uur
 | 11:05 | vijf over elf
@@ -64,18 +115,23 @@ Schrijft een lange klank met een klinker in een open lettergreep, en met twee kl
 | 11:00 - 11:01 | een minuut
 |===
 
-=== Vraagwoordvragen
+https://www.rekenen.nl/klokkijken/analoge-klok
+
+== Vraagwoordvragen
+
 * *Wie* is hun docent?
 * *Hoe* gaat het met jou?
-* *Hoeveel* dagen heeft een week? *Hoeveel* kost het?
+* *Hoeveel* dagen heeft een week?
+*Hoeveel* kost het?
 * *Wat* is jouw naam?
 * *Waar* ga je op vakantie?
 * Op *welke* dag van de week hebben we de Nederlands les?
 * *Wanneer* is jouw verjaardag?
 * *Waarom* kom je naar Nederland?
 
-=== Possessief pronomen
-[%header, cols=2]
+== Possessief pronomen
+
+[%header,cols=2]
 |===
 | subject | possessief pronomen
 | ik | mijn broer
@@ -90,27 +146,32 @@ uw adres
 
 | wij / we
 | onze les +
-  ons adres
+ons adres
 
 | jullie | jullie docent
 | zij / ze | hun familie
 |===
 
-=== Maanden en seizoenen
-==== maanden
+== Maanden en seizoenen
+
+=== maanden
+
 [grid=none]
 |===
 | januari | februari | maart | april
 | mei | juni | juli | augustus
 | september | oktober | november | december
 |===
-==== seizoenen
+
+=== seizoenen
+
 * de lente / het voorjaar
 * de zomer
 * de herfst / het najaar
 * de winter
 
-=== Pluralis
+== Pluralis
+
 [cols="1,5,4"]
 |===
 
@@ -126,9 +187,28 @@ uw adres
 
 |===
 
+== Modale werkwoorden
+=== Met infinitief
+Vaak komt er een infinitief na een modaal werkwoord.
+Die infinitief staat meestal aan het einde van de zin.
+
+* Mag ik tien meer minuten spelen? Ja, dat mag wel. / Nee, dat mag niet.
+* Mag ik jouw soep ook even proeven?
+* We moeten oefening 3 ook maken.
+
+=== Zonder infinitief
+
+* Ik will graag koffie.
+* Ik moet naar de les.
+
+
+<<<
+
+== Onderwerpen
 === Normale dag
 Wat doe je op een normale dag?
-[cols="2,4", grid=none]
+
+[cols="2,4",grid=none]
 |===
 | ontbijten                       | Ik ontbijten om half negen.
 | eten                            | Ik eet eieren en een boterham.
@@ -143,7 +223,8 @@ Wat doe je op een normale dag?
 | pauze nemen                     | Ik neem elk uur pauze.
 | koffie drinken                  | Je drinkt koffie.
 | lunchen                         | Je luncht om half een.
-| kletsen met collega's           | Je kletst met collega's. Klets je met collega's?
+| kletsen met collega's           | Je kletst met collega's.
+Klets je met collega's?
 | rijden                          | Hij rijdt auto.
 | met mijn dochter spelen         | Wij spelen met onze dochter.
 | mijn dochter verschonen         | Ik verschoon mijn dochter.
@@ -154,12 +235,57 @@ Wat doe je op een normale dag?
 | huizen bezichtigen              | We bezichtigen huizen.
 |===
 
-=== Huiswerk
-==== Vraagwoorden (p.37 opdracht 3)
-[cols=2, grid=none]
+==== Normale zaterdag
+- We gaan buiten spelen met onze dochter.
+- Mijn dochter speelt in de speeltuin met andere jongens en meisjes.
+- 's Morgens gaan we koffie drinken in een cafe in onze buurt.
+- Soms gaan we lunchen in een Thais restaurant.
+- Mijn vrouw videochat met haar ouders.
+- We bezoeken vrienden.
+- We gaan boodschappen doen met de fiets als het niet regent.
+- We maken het huis schoon.
+- Mijn dochter helpt me met het schoonmaken van de vloer.
+
+=== Kletsen
+|===
+| Ik kom net uit een vergadering. | I just got out of a meeting.
+| Ik heb vandaag heel veel vergaderingen. |
+| Elke vergadering duurt heel lang. |
+| Zijn ze saai of interessant? Allebei |
+| Sommige zijn saai en sommige zijn interessant. |
+
+| We blijven bijna het hele weekend thuis. |
+| We zijn bijna het hele weekend thuis gebleven. |
+
+| Ik ben jarig op 1 januari. |
+| Ik ben geboren op 1 januari 1999. |
+|===
+
+=== "ga naar"
+[cols=2]
+|===
+| met artikel (de, het)
+| Ik ga naar de markt. +
+Ik ga naar de ziekenhuis. +
+Ik ga naar de kantine.
+
+| zonder artikel (固定搭配)
+| Ik ga naar huis. +
+Ik ga naar kantoor. +
+Ik ga naar bed. +
+Ik ga naar school. +
+Ik ga naar Nederlandse les.
+|===
+
+<<<
+
+== Huiswerk
+=== Les 1 (25/10/2021)
+==== Vraagwoorden (Nederlands in gang p.37 - h2 - opdracht 3)
+[cols=2,grid=none]
 |===
 | 1  *Hoe* heet jouw zus?                      | Mijn zus heet Sandra
-| 2  *Wat* doe je vandaag?                    | Ik ga naar de cursus.
+| 2  *Wat* doe je vandaag?                     | Ik ga naar de cursus.
 | 3  *Waar* woont Astrid?                      | Astrid woont in de Brugstraat.
 | 4  *Welke* cursus doe je?                    | Ik doe nu cursus 1.
 | 5  *Wie* heeft mijn boek?                    | Ik. Ik heb jouw boek.
@@ -174,7 +300,8 @@ Wat doe je op een normale dag?
 | 14 *Hoeveel* zussen heb je?                  | Ik heb twee zussen.
 |===
 
-==== Possessief pronomen (p.38 opdracht 4)
+==== Possessief pronomen (Nederlands in gang p.38 - h2 - opdracht 4)
+
 . Wij wonen nu in Zwolle. *Ons* adres is Rozenstraat 8.
 . Ik woon in Amersfoort en *mijn* zus woont in Rotterdam.
 . Mevrouw Jansen, gaat u met *uw* broer op vakantie?
@@ -186,7 +313,8 @@ Wat doe je op een normale dag?
 . Theresa, woont *je* familie ook in Nederland?
 . Peter moet voor *zijn* werk naar Indonesie.
 
-==== Maanden en seizoenen (p.41 opdracht 10)
+==== Maanden en seizoenen (Nederlands in gang p.41 - h2 - opdracht 10)
+
 Vul in: *op*, *om* of *in*
 
 . De cursus begint *op* maandag 8 april, *om* 9.00 uur.
@@ -202,76 +330,25 @@ Vul in: *op*, *om* of *in*
 . Gerard en Senna gaan *in* oktober op vakantie.
 . Hij is *op* 23 mei 1991 geboren.
 
-==== Normale zaterdag
-- We gaan buiten spelen met onze dochter.
-- Mijn dochter speelt in de speeltuin met andere jongens en meisjes.
-- 's Morgens gaan we koffie drinken in een cafe in onze buurt.
-- Soms gaan we lunchen in een Thais restaurant.
-- Mijn vrouw videochat met haar ouders.
-- We bezoeken vrienden.
-- We gaan boodschappen doen met de fiets als het niet regent.
-- We maken het huis schoon.
-- Mijn dochter helpt me met het schoonmaken van de vloer.
 
-
-<<<
-
-== Les twee [01/11/2021]
-=== Kletsen
-|===
-| Ik kom net uit een vergadering. | I just got out of a meeting.
-| Ik heb vandaag heel veel vergaderingen. |
-| Elke vergadering duurt heel lang. |
-| Zijn ze saai of interessant? Allebei |
-| Sommige zijn saai en sommige zijn interessant. |
-
-| We blijven bijna het hele weekend thuis. |
-| We zijn bijna het hele weekend thuis gebleven. |
-
-| Ik ben jarig op 1 januari. |
-| Ik ben geboren op 1 januari 1999. |
-
-|===
-
-=== "ga naar"
+=== Les 2 (01/11/2021)
+==== Hoofdzin met inversie (Nederlands in gang p.52 - h3 - opdracht 6)
 [cols=2]
 |===
-| met artikel (de, het)
-| Ik ga naar de markt. +
-  Ik ga naar de ziekenhuis. +
-  Ik ga naar de kantine.
-
-| zonder artikel (固定搭配)
-| Ik ga naar huis. +
-  Ik ga naar kantoor. +
-  Ik ga naar bed. +
-  Ik ga naar school. +
-  Ik ga naar Nederlandse les.
+| 1. Joyce is donderdag jarig. | Donderdag is Joyce jarig.
+| 2. We drinken koffie in de kantine. | In de kantine drinken we koffie.
+| 3. Ze zjin op het moment in Indonesië. | Op het moment zijn ze in Indonesië.
+| 4. Ik weet dat niet. | Dat weet ik niet.
+| 5. Ze wonen in de winter in Barcelona. | In de winter wonen ze in Barcelona.
 |===
 
-
-=== Modale werkwoorden
-
-==== Met infinitief
-Vaak komt er een infinitief na een modaal werkwoord. Die infinitief staat meestal aan het einde van de zin.
-
-* Mag ik tien meer minuten spelen? Ja, dat mag wel. / Nee, dat mag niet.
-* Mag ik jouw soep ook even proeven?
-* We moeten oefening 3 ook maken.
-
-==== Zonder infinitief
-* Ik will graag koffie.
-* Ik moet naar de les.
-
-==== Oefenen
-
-===== Nederlands in gang - hoofdstuk 6 In een restaurant - Opdracht 4 (p.90)
+==== Modale werkwoorden (Nederlands in gang p.90 - h6 - opdracht 4)
 Welk werkwoord is logisch in de zin?
 
 . Wat *zullen* we drinken? Wijn?
 . Mijn ouders *kunnen* niet op mijn verjaardag komen.
 . Hans *wil* een jaar in Canada wonen.
-. Aan mijn tafel *kunnnen* vier personen zitten.
+. Aan mijn tafel *kunnen* vier personen zitten.
 . Jullie *moeten* deze opdracht maken.
 . Jullie *mogen* samenwerken.
 . Ik ben jarig. Ik *wil* een rondje geven.
@@ -279,49 +356,33 @@ Welk werkwoord is logisch in de zin?
 . *Zal* ik morgen om half negen komen?
 . *Kunnen* veel Nderlanders Engels spreken?
 
-===== Nederlands in gang - hoofdstuk 6 In een restaurant - Opdracht 5 (p.90)
-Vul een vorm in van *mogen*, *willen*, *moeten*, *kunnen* of *zullen*. Wat is logisch?
+==== Modale werkwoorden (Nederlands in gang p.90 - h6 - opdracht 5)
+
+Vul een vorm in van *mogen*, *willen*, *moeten*, *kunnen* of *zullen*.
+Wat is logisch?
 
 . *Wil* je in dit cafe ook iets eten?
-. Je *kan* deze soep eens proven. Heerlijk!
-. Je *kunnen* ook alleen een voorgerecht nemen. Dat is goed.
+. Je *moet* deze soep eens proeven. Heerlijk!
+. Je *kan* ook alleen een voorgerecht nemen. Dat is goed.
 . Ik houd van vis. Ik *wil* de paella.
 . *Kan* je nu al Nederlands spreken? Wat goed!
 . Mijn achternaam is Alasadi. *Zal* ik het even spellen?
 . *Mag* ik twee koffie en een glas water alstublieft?
 . Jonas is zestien jaar. *Mag* hij bier bestellen in een café?
 
-=== Hoofdzin met inversie
-
-===== Nederlands in gang - huufdstuk 3 In het café - Opdracht 6 (p.52)
-
-[cols=2]
-|===
-
-| 1. Joyce is donderdag jarig. | Donderdag is Joyce jarig.
-| 2. We drinken koffie in de kantine. | In de kantine drinken we koffie. (met "," ?)
-| 3. Ze zjin op het moment in Indonesië. | Op het moment zijn ze in Indonesië.
-| 4. Ik weet dat niet. | Dat weet ik niet.
-| 5. Ze wonen in de winter in Barcelona. | In de winter wonen ze in Barcelona.
-
-|===
-
-
-
-
-
 <<<
 
 == Bijlage
-
 === Uitspraak
 ==== ië
+
 |===
 | ie -> [i:]  | lied, dieren
 | ië -> [i-e] | Australië, België, Italië, Indonesië
 |===
 
 === In de klas
+
 |===
 | Wij gaan door!
 | Ok, dan gaan we door!
@@ -334,6 +395,7 @@ Vul een vorm in van *mogen*, *willen*, *moeten*, *kunnen* of *zullen*. Wat is lo
 |===
 
 === Links
+
 https://www.youtube.com/watch?v=ZCA2DyqYvF0&ab_channel=LearnDutchwithBartdePau[Learn Dutch Alphabet + Pronunciation]
 
 https://www.taal-oefenen.nl/[taal-oefenen.nl]
