@@ -201,6 +201,73 @@ Die infinitief staat meestal aan het einde van de zin.
 * Ik will graag koffie.
 * Ik moet naar de les.
 
+== Perfectum
+`*hebben* / *zijn* + participium van een werkwoord`
+
+[cols=3]
+|===
+
+2+| | *Participium*
+.2+| *Werkwoorden*
+| regelmatig | *ge* + stam + *t / d*
+| onregelmatig | uit het hoofd leren
+|===
+
+. Wanneer krijgt het participium een *-t* en wanneer een *-d*? +
+  Luister naar de laaste letter van de stam. Hoe klinkt de laatste letter? Als:
+** *s*, *f*, *t*, *k*, *ch*, of *p*  (**s**o**ft** **k**e**tch**u**p**)? Dan schrijf je `*ge* + stam + *t*` +
+    infinitief: werken | stam: werk | participium: gewerkt
+
+** een andere klank dan *s*, *f*, *t*, *k*, *ch*, of *p*? Dan schrijf je `*ge* + stam + *d*` +
+    infinitief: spelen | stam: speel | participium: gespeeld
+
+. Begint het werkwoord met *ge-*, *be-*, *her-*, *ver-* of *ont-*? Dan vervalt *ge-* +
+    gebeuren -> gebeurd +
+    betalen -> betaald +
+    herhalen -> herhaald +
+    vertalen -> vertaald +
+    ontdekken -> ontdekt
+
+. Wanneer gebruik je *zijn*? Wanneer gebruik je *hebben*? +
+  Je gebruikt meestal *hebben* maar soms *zijn*. +
+** *hebben* +
+    We hebben gefietst. +
+    Hij heeft zijn moeder gebeld. +
+    Ik heb mijn zus geholpen.
+
+** *zijn*
+*** `richting` +
+    Ik ben naar huis gefietst.
+*** `verandering van situatie` +
+    We zijn om 9.00 uur begonnen. +
+    Ze is met de cursus gestopt. +
+    Ben je gisteren 21 geworden? +
+    Wat is er gebeurd?
+*** `werkwoorden` +
+    Ik ben naar de voetbalvereniging geweest.
+    Hij is tot 22.00 uur gebleven.
+
+[%header, cols=2]
+|===
+| presens | perfectum
+| luisteren | geluisterd
+| halen | gehaald
+| spelen | gespeeld
+| maken | gemaakt
+| koken | gekookt
+| wandelen _(schwa)_ | gewandeld
+| leven | geleefd   (*v* staat niet in SOFT KETCHUP)
+| reizen | gereisd   (*z* staat niet in SOFT KETCHUP)
+| wissen | gewist
+| Ik nodig mijn collega's uit. | Ik heb mijn collega's uitgenodigd.
+| Ik haal mijn dochter (van de kinderopvang) op. | Ik heb mijn dochter opgehaald.
+| Ik zet de oven aan/uit. | Ik heb de oven aangezet/uitgezet.
+|===
+
+=== presens vs perfectum vs imperfectum
+* Ik werk al 6 jaar bij Bol.com (presens) - I have worked
+* Ik heb 6 jaar bij Bol.com gewerkt. Nu werk ik bij ING. (perfectum) - I worked
+* Ik werkte in China toen ik jonger was. (imperfectum)
 
 <<<
 
@@ -369,6 +436,51 @@ Wat is logisch?
 . Mijn achternaam is Alasadi. *Zal* ik het even spellen?
 . *Mag* ik twee koffie en een glas water alstublieft?
 . Jonas is zestien jaar. *Mag* hij bier bestellen in een café?
+
+=== Les 3
+==== Perfectum (Nederlands in gang p.132 - h9 - opdracht 5)
+Vul het participium in van het werkwoord tussen haakjes.
+
+. Heb je gisteren een wedstrijdje *gespeeld*?
+. Hij heeft zijn dochter een prettig weekend *gewenst*.
+. Ze is met de cursus *gestopt*.
+. Heb je de mosterdsoep *geproefd*.
+. De serveerster heeft een lepel *gehaald*. (uitspraak als 't'?)
+. Heeft de heer Smit aand de bultjes *gekrabd*. (uitspraak als 't'?)
+. Heeft je zus in New York *gewoond*.
+. Ik heb mijn familie veel over de cursus Nederlands *verteld*. (vertel-len -> vertel -> verteld)
+. Heb je gisteren het bad *gebruikt*?
+. We heeft de koffie *betaald*?
+
+==== Zinnen maken
+Maak een zin in het perfectum met: fietsen, wonen, stoppen, huren, maken
+
+. Ik ben vorig weekend met mijn dochter en mijn vrouw naar de supermarkt *gefietst*.
+. Vijf jaar geleden zijn we in Hilversum *gewoond*. (zijn of hebben?)
+. Hij is met Nederlands leren *gestopt*.
+. Zijn hebben een appartement *gehuurd*.
+. Vorige week heeft mijn buurman heel veel lawaai *gemaakt*. (hoe zeg je "last week during the day")
+
+==== Normale werkdag op kantoor
+Schrijf een korte tekst over een normale werkdag op kantoor. Wat doe je?
+
+. Ik ga een dag per week naar kantoor.
+. Ik ga met auto naar kantoor.
+. Ik kom om bijna half tien het kantoor aan. (op het kantoor?)
+. Ik breng een koffee op AH to-go. (Is "breng" het juiste woord?)
+. Ik gaan met lift naar mijn werkplaats.
+. Om 9.45 hebben we de stand-up. (hebben of doen)
+. Op/In de stand-up vertelt iedereen iets over zijn of haar werk.
+. We hebben veel vergaderingen.
+. Om 12 uur ga ik met collega's lunchten.
+. We hebben een uur lunch pauze.
+. Ik schrijf code.
+. Ik bekijk code ook.
+. Soms speel ik met mijn collega's bordspellen. (bordspellen met collega's?)
+. Meestal ga ik om 5 uur naar huis.
+. Onderweg naar huis haal ik mijn dochter op.
+
+
 
 <<<
 
