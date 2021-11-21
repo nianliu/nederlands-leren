@@ -442,40 +442,41 @@ Wat is logisch?
 Vul het participium in van het werkwoord tussen haakjes.
 
 . Heb je gisteren een wedstrijdje *gespeeld*?
-. Hij heeft zijn dochter een prettig weekend *gewenst*.
+. Hij heeft zijn docent een prettig weekend *gewenst*.
 . Ze is met de cursus *gestopt*.
 . Heb je de mosterdsoep *geproefd*.
-. De serveerster heeft een lepel *gehaald*. (uitspraak als 't'?)
-. Heeft de heer Smit aand de bultjes *gekrabd*. (uitspraak als 't'?)
+. De serveerster heeft een lepel *gehaald*. (spreek 'd' uit als 't')
+. Heeft de heer Smit aan de bultjes *gekrabd*. (spreek 'd' uit als 't')
 . Heeft je zus in New York *gewoond*.
 . Ik heb mijn familie veel over de cursus Nederlands *verteld*. (vertel-len -> vertel -> verteld)
 . Heb je gisteren het bad *gebruikt*?
-. We heeft de koffie *betaald*?
+. We heeft de koffie *betaald*.
 
 ==== Zinnen maken
 Maak een zin in het perfectum met: fietsen, wonen, stoppen, huren, maken
 
 . Ik ben vorig weekend met mijn dochter en mijn vrouw naar de supermarkt *gefietst*.
-. Vijf jaar geleden zijn we in Hilversum *gewoond*. (zijn of hebben?)
+. Vijf jaar geleden *hebben* we in Hilversum *gewoond*.
 . Hij is met Nederlands leren *gestopt*.
 . Zijn hebben een appartement *gehuurd*.
-. Vorige week heeft mijn buurman heel veel lawaai *gemaakt*. (hoe zeg je "last week during the day")
+. Vorige week heeft mijn buurman heel veel lawaai *gemaakt*.
+. Vorige week heeft mijn buurman overdag heel veel lawaai *gemaakt*.
 
 ==== Normale werkdag op kantoor
 Schrijf een korte tekst over een normale werkdag op kantoor. Wat doe je?
 
 . Ik ga een dag per week naar kantoor.
-. Ik ga met auto naar kantoor.
-. Ik kom om bijna half tien het kantoor aan. (op het kantoor?)
-. Ik breng een koffee op AH to-go. (Is "breng" het juiste woord?)
-. Ik gaan met lift naar mijn werkplaats.
+. Ik ga met de auto naar kantoor.
+. Ik kom om *ongeveer* half tien *op kantoor* aan.
+. Ik *haal* een koffee op AH to-go.
+. Ik ga met lift naar mijn werkplaats.
 . Om 9.45 hebben we de stand-up. (hebben of doen)
-. Op/In de stand-up vertelt iedereen iets over zijn of haar werk.
+. *Tijdens* de stand-up vertelt iedereen iets over zijn werk.
 . We hebben veel vergaderingen.
 . Om 12 uur ga ik met collega's lunchten.
-. We hebben een uur lunch pauze.
+. We hebben een uur lunchpauze.
 . Ik schrijf code.
-. Ik bekijk code ook.
+. Ik bekijk *ook* code. (ook moet na werkwoorden)
 . Soms speel ik met mijn collega's bordspellen. (bordspellen met collega's?)
 . Meestal ga ik om 5 uur naar huis.
 . Onderweg naar huis haal ik mijn dochter op.
@@ -485,6 +486,9 @@ Schrijf een korte tekst over een normale werkdag op kantoor. Wat doe je?
 <<<
 
 == Bijlage
+=== Ggammatica
+* "ook" moet na werkwoorden. Ik bekijk ook de code.
+
 === Uitspraak
 ==== ië
 
