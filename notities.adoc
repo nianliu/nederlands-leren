@@ -344,6 +344,53 @@ Ik ga naar school. +
 Ik ga naar Nederlandse les.
 |===
 
+=== Lastige woorden
+https://blogs.transparent.com/dutch/tackling-tricky-dutch-words/
+
+==== Verstaan vs. Begrijpen
+While both verstaan and begrijpen mean ‘to understand’, there is a difference in the context that they are used.
+
+*Verstaan* is used when you are talking about something that you hear. If you can’t understand someone because they need to talk louder (harder) or more clearly (duidelijker), then you would use verstaan. It is also used when discussing understanding or knowing/being able to comprehend another language.
+
+- Ik versta je niet. De radio staat aan! De verbinding is slecht!
+- Sorry, ik versta u niet goed. Kunt u het nog een keer zeggen?
+- Ik ben een beetje doof, ik versta u niet. (I am a little bit deaf, I don’t understand you.)
+- Ik versta geen Arabisch. Dat heb ik op school nooit geleerd. (I don’t understand Arabic. I never learned that in school.)
+
+*Begrijpen* is used when you are talking about actually understanding the meaning of something.
+
+- Ik begrijp je niet. Kun je dat uitleggen?
+- Ik ben niet doof, dus is versta u heel goed, maar ik begrijp u niet. U praat nonsens! (I am not deaf, so I understand [hear] you very good but I don’t understand you. You talk nonsense!)
+
+==== Betekenen vs. Bedoelen
+Betekenen and bedoelen both can be translated as ‘to mean’.
+
+*Betekenen* is used in situations where something can be interpreted, more or less, the same by everyone (e.g. a traffic sign). Most particularly, beteken is used in relation to words.
+
+
+- ‘Melk’ betekent ‘milk’, begrijpt u dat? (‘Melk’ means ‘milk’, do you understand that?)
+- Dit symbool betekent ....
+- Wat betekent dat Chinese karakter?
+
+*Bedoelen*, on the other hand, is more people related and used to reflect a certain intention someone has when stating or saying something.
+
+- Wat bedoelt Marie? (What does Marie mean?)
+- Ik bedoel....
+- Wat bedoel je?
+
+==== Weten vs. Kennen
+Weten and kennen, both which mean ‘to know’ are one of the hardest pairs to explain and understand. So, don’t feel bad if you find this one challenging.
+
+*Kennen* is used more often in relation to being aquainted with someone or something. Kennen is also a transitive verb, meaning it needs an object.
+
+- Kent u meneer Ruisdaal? (Do you know Mr. Ruisdaal?)
+
+*Weten* is used, usually, to refer to facts. It is often in sentences with sub-clauses.
+
+- Ik weet waar het museum is. (I know where the museum is.)
+
+
+
 <<<
 
 == Huiswerk
@@ -619,8 +666,14 @@ Vul een vorm in ven *hebben* of *zijn*.
 . Ik vind de spreelpefeningen het leukst.
 . Ik vind de uitspraak het belangrijkst bij het leren van een taal.
 
-
-
+=== Les 6
+==== Begrijpen of verstaan niet (p.145 opdracht 2)
+. Sorry, er zijn hier veel mensen. Ik *versta* je niet goed. Wat zeg je? Kun je data *nog een keer* zeggen?
+. Kun je dat even *herhalen*?
+. Wat *bedoelt* / *zegt* je?
+. Wat ** dat?
+. Hoe *zegt je dat* / *heet dat* in het Nederlands?
+. Proost. ** in het Nederlands?
 
 
 
@@ -631,7 +684,7 @@ Vul een vorm in ven *hebben* of *zijn*.
 * "ook" moet na werkwoorden. Ik bekijk ook de code.
 
 === Uitspraak
-==== ië
+==== ie
 
 |===
 | ie -> [i:]  | lied, dieren
@@ -650,6 +703,23 @@ Vul een vorm in ven *hebben* of *zijn*.
 | Ik begrijp het!
 | Duidelijk!
 |===
+
+=== Verstaan / Begrijpen niet (Nederlands in gang p.145)
+*zeggen dat je iemand niet verstaat*
+
+- Sorry, ik versta u niet goed. Kunt u het nog een keer zeggen?
+- Kunt u het even herhalen?
+- Wat zegt u?
+
+*zeggen dat je iets / iemand niet begrijpt*
+
+- Sorry, ik begrijp het niet. Wat bedoelt u met tiptop?
+
+*vragen hoe je iets zegt in het Nederlands*
+
+- Dat ding __. Hoe zeg je dat in het Nederlands?
+- De bagagedrager, zeg je dat zo in het Nederlands?
+- Hoe het dat / zo'n ding?
 
 === Links
 
