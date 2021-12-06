@@ -371,6 +371,7 @@ Betekenen and bedoelen both can be translated as ‘to mean’.
 - ‘Melk’ betekent ‘milk’, begrijpt u dat? (‘Melk’ means ‘milk’, do you understand that?)
 - Dit symbool betekent ....
 - Wat betekent dat Chinese karakter?
+- Wat betekent zadel? Een zadel is een ding op je fiets. Je zit op het zadel.
 
 *Bedoelen*, on the other hand, is more people related and used to reflect a certain intention someone has when stating or saying something.
 
@@ -667,7 +668,7 @@ Vul een vorm in ven *hebben* of *zijn*.
 . Ik vind de uitspraak het belangrijkst bij het leren van een taal.
 
 === Les 6
-==== Begrijpen of verstaan niet (p.145 opdracht 2)
+==== Begrijpen en verstaan (p.145 opdracht 2)
 . Sorry, er zijn hier veel mensen. Ik *versta* je niet goed. Wat zeg je? Kun je data *nog een keer* zeggen?
 . Kun je dat even *herhalen*?
 . Wat *bedoel* / *zeg* je?
@@ -675,6 +676,57 @@ Vul een vorm in ven *hebben* of *zijn*.
 . Hoe *zegt je dat* / *heet dat* in het Nederlands?
 . Proost. *Zeg je dat zo* in het Nederlands?
 
+==== Bedoelen en betekenen (p.146 opdracht 3)
+. De buurman zei iets, maar ik wist niet wat hij *bedoelt*. (imperfectum?)
+. Hij is allergisch. Dat *betekent* dat hij geen tomaten mag eten.
+. Ik neem een bakje champignons. Wat *betekent* 'bajke' eigenlijk?
+. Mag ik dat groene, eh, daar, dat groene ...? O, u *bedoelt* peterselie.
+. Wat *betekent* p.p.? Per persoon.
+
+==== Fietsonderdelen (p.147 opdracht 4)
+. de bagagedrager
+. de band
+. de bel
+. de trapper
+. het stuur
+. het wiel
+. het zadel
+. de rem
+. het achterlicht
+. het voorlicht
+. het slot
+. de standaard
+
+==== Imperfectum (p.149 opdracht 8)
+// Regelmatige werkwoorden
+. Hij *voelde* zich niet zo goed.
+. Hans en Paul *stopte* na tween maande al met hun studie.
+. Ik *vierde* mijn verjaardag altijd met mijn familie.
+. Alberto *bedankte* ons voor de leuke dag.
+. *Woonde* jullie vroeger ook in een stad?
+. Eerst *vertelde* hij over zijn reis naar Kenia.
+. In Parijs *werkte* hij in een groot cafe.
+. Het *regende* de hele week!
+. Hij *miste* zijn ouders en zijn zesje.
+. De kinderen *fietste* elke dag naar school.
+// Onregelmatige werkwoorden
+. Tom *vroeg* iets aan zijn aan zijn buurvrouw.
+. Dat *wist* ik niet.
+. Waar *stond* je fiets? Bij het restaurant?
+. Ik *sliep* al heel lang zo slecht.
+. Wesley *vond* de aardbeien heerlijk.
+. Hij *zei* niets over onze afspraak.
+. *Zagen* jullie mij niet?
+. John en Marga *keken* naar de wedstrijd.
+. Julia *dronk* thee met suiker.
+. We *kwamen* te laat in de les.
+
+==== Spreekopdracht voorbereiden: zoek een huis op Funda. Vertel iets over dit huis. Bijvoorbeeld:
+- hoe groot is het?
+- hoeveel verdiepingen heeft het huis?
+- is er een tuin?
+- Wat vind je mooi/niet mooi?
+- is het groter/kleiner/mooier/minder mooi/ ... dan je eigen huis?
 
 
 <<<
