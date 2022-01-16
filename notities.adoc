@@ -118,38 +118,28 @@ Schrijft een lange klank met een klinker in een open lettergreep, en met twee kl
 https://www.rekenen.nl/klokkijken/analoge-klok
 
 == Vraagwoordvragen
-
 * *Wie* is hun docent?
 * *Hoe* gaat het met jou?
 * *Hoeveel* dagen heeft een week?
-*Hoeveel* kost het?
+* *Hoeveel* kost het?
 * *Wat* is jouw naam?
 * *Waar* ga je op vakantie?
 * Op *welke* dag van de week hebben we de Nederlands les?
 * *Wanneer* is jouw verjaardag?
 * *Waarom* kom je naar Nederland?
 
-== Possessief pronomen
-
-[%header,cols=2]
+== Persoon
+[%header,cols=6]
 |===
-| subject | possessief pronomen
-| ik | mijn broer
-
-| jij / je +
-u
-| jouw / je ouders +
-uw adres
-
-| hij | zijn werk
-| zij / ze | haar foto
-
-| wij / we
-| onze les +
-ons adres
-
-| jullie | jullie docent
-| zij / ze | hun familie
+| subject   | object    | possessief pronomen | werkwoorden | zijn  | hebben
+| ik        | mij / me  | mijn                | de stam     | ben   | heb
+| jij / je  | jou / je  | jouw / je           | stam + t    | bent  | hebt
+| u         | u         | uw                  | stam + t    | bent  | hebt / heeft
+| hij       | hem       | zijn                | stam + t    | is    | heeft
+| zij / ze  | haar      | haar                | stam + t    | is    | heeft
+| wij / we  | ons       | onze / ons          | infinitief  | zijn  | hebben
+| jullie    | jullie    | jullie              | infinitief  | zijn  | hebben
+| zij / ze  | hen / ze  | hun                 | infinitief  | zijn  | hebben
 |===
 
 == Maanden en seizoenen
@@ -736,8 +726,8 @@ Werk in tweetallen. Beantwoord de vragen.
 . Welke talen konden jullie vroeger leren op school? +
   We konden vroeger alleen Engels leren op school.
 
-. Mocht jij met 16 jaar allen op vakantie? +
-  Nee, ik mocht met 18 jaar allen o vakantie.
+. Mocht jij met 16 jaar alleen op vakantie? +
+  Nee, ik mocht met 18 jaar alleen o vakantie.
 
 . Wat wilde jij worden als kind? +
   Ik wilde een dokter worden als kind. (how to say I don't know what I wanted to be when I was a child)
@@ -760,10 +750,10 @@ Werk in tweetallen. Beantwoord de vragen.
 | Hij is de vriend van Marit. Hij is accountant. Hij werkt niet meer op kantoor. Hij is eigen baas gewoorden. Hij heeft een eigen bedrijf. Hij heeft het druk. Hij verveelt zich nooit.
 
 | Marit
-| Zij bent vandaag jarig. Zij bent de buurvrouw van Tom. Zij bent gek op Cubaanse muziek.
+| Zij is vandaag jarig. Zij is de buurvrouw van Tom. Zij is gek op Cubaanse muziek.
 
 | Tom
-| Hij is een fietsenmaker. Hij is de buurman van Marit. Hij heeft Marit een kaartje voor Festival Cubana gegeven. (How to say he introduced himself to Kirsten / he knew Kirsten from the party?) Film en wandelen zijn zijn hobby's. Hij bent gisteren naar de Wandelbeurs in Amsterdam geweest.
+| Hij is fietsenmaker. Hij is de buurman van Marit. Hij heeft Marit een kaartje voor Festival Cubana gegeven. (How to say he introduced himself to Kirsten / he knew Kirsten from the party?) Film en wandelen zijn zijn hobby's. Hij is gisteren naar de Wandelbeurs in Amsterdam geweest.
 
 | Kirsten
 | Zij is een vriendin van Marit. Zij komt uit Duitsland en woont sinds kort in Nederland. Zij studeert logopedie. Zij heeft een bijbaantje. Zij werkt iedere donderdag in de bioscoop. Film is niet haar hobby. Zij houdt van sport, van zwemmen en wandelen.
