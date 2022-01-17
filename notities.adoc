@@ -128,18 +128,18 @@ https://www.rekenen.nl/klokkijken/analoge-klok
 * *Wanneer* is jouw verjaardag?
 * *Waarom* kom je naar Nederland?
 
-== Persoon
-[%header,cols=6]
+== Cheatsheet
+[%header,cols=7]
 |===
-| subject   | object    | possessief pronomen | werkwoorden | zijn  | hebben
-| ik        | mij / me  | mijn                | de stam     | ben   | heb
-| jij / je  | jou / je  | jouw / je           | stam + t    | bent  | hebt
-| u         | u         | uw                  | stam + t    | bent  | hebt / heeft
-| hij       | hem       | zijn                | stam + t    | is    | heeft
-| zij / ze  | haar      | haar                | stam + t    | is    | heeft
-| wij / we  | ons       | onze / ons          | infinitief  | zijn  | hebben
-| jullie    | jullie    | jullie              | infinitief  | zijn  | hebben
-| zij / ze  | hen / ze  | hun                 | infinitief  | zijn  | hebben
+| subject   | object    | possessief pronomen | reflexief pronomen  | werkwoorden | zijn  | hebben
+| ik        | mij / me  | mijn                | me                  | de stam     | ben   | heb
+| jij / je  | jou / je  | jouw / je           | je                  | stam + t    | bent  | hebt
+| u         | u         | uw                  | u / zich            | stam + t    | bent  | hebt / heeft
+| hij       | hem       | zijn                | zich                | stam + t    | is    | heeft
+| zij / ze  | haar      | haar                | zich                | stam + t    | is    | heeft
+| wij / we  | ons       | onze / ons          | ons                 | infinitief  | zijn  | hebben
+| jullie    | jullie    | jullie              | je                  | infinitief  | zijn  | hebben
+| zij / ze  | hen / ze  | hun                 | zich                | infinitief  | zijn  | hebben
 |===
 
 == Maanden en seizoenen
@@ -258,6 +258,20 @@ Die infinitief staat meestal aan het einde van de zin.
 * Ik werk al 6 jaar bij Bol.com (presens) - I have worked
 * Ik heb 6 jaar bij Bol.com gewerkt. Nu werk ik bij ING. (perfectum) - I worked
 * Ik werkte in China toen ik jonger was. (imperfectum)
+
+== Zinnen Maken
+=== Reflexieve werkwoorden
+[cols="1,4"]
+|===
+| zich voorstelllen aan | Hij heeft zich voorgesteld aan Marit.
+| zich voelen           | Voel je je niet zo goed? Ja, ik voel me me niet zo goed.
+| zich interesseren     | Die interesseren me niet.
+| zich aankleden        | Ik kleed me aan.
+| zich herinneren       | Ik herinner me mijn pasword niet.
+| zich vervelen         | Stefan verveelt zich een beetje.
+| zich vergissen        | Je vergist je niet.
+| zich voorbereiden op  | Wij bereiden ons voor op een wandelreis.
+|===
 
 <<<
 
@@ -758,9 +772,64 @@ Werk in tweetallen. Beantwoord de vragen.
 | Kirsten
 | Zij is een vriendin van Marit. Zij komt uit Duitsland en woont sinds kort in Nederland. Zij studeert logopedie. Zij heeft een bijbaantje. Zij werkt iedere donderdag in de bioscoop. Film is niet haar hobby. Zij houdt van sport, van zwemmen en wandelen.
 
-
 |===
 
+=== Les 8 （13/12/2021）
+==== p.164 oef 6
+. Wat is er gebeurd? +
+  Ik kan het *me* niet meer herinneren.
+. Een wandelreis in Chili! Is wandelen daar geen probleem? +
+  We gaan *ons* goed voorbereiden.
+. Ze woont toch in Delft? +
+  Nee echt niet, je vergist *je*.
+. Hebben jullie *je* al voorgesteld? +
+  Ja, dat hebben we al gedaan.
+. Zijn ze weggegaan? +
+  Ja, ze verveelden *zich*.
+. Hebt u uw fiets bij *u*? +
+  Nee, die heb ik naar de fietsenmaker gebracht.
+. Hoe bevalt het Kirsten in Nederland? +
+  Ze voelt *zich* hier al een beetje thuis. (wat betekent die?)
+. Hoe kennen jullie *elkaar*? +
+  Van de studie.
+. Gaat hij niet mee naar de film? Of heeft hij de film al gezien? +
+  Nee, hij interesseert *zich* niet voor dit soort films.
+
+==== p.164 oef 7
+Hij herinnert zich ook niets. (is niet ook goed?)
+
+==== p.166 oef 8
+. Wat voor muziek vind je leuk? +
+  Ik interesseer me voor 80s en 90s pop muziek.
+. Heb je altijd iets te doen? +
+  Nee, soms verveel ik me een beetje.
+. Het is vandaag toch zaterdag? +
+  Nee, je vergist je. Het is zondag.
+. Sorry, ik ken u niet, denk ik. Klopt dat? +
+  Ja, laat me mezelf voorstellen. (klopt?)
+. Weet je de naam van je eerste docent nog? +
+  Nee, ik herinneer me dat niet.
+. Waarom is Tanja vandaag niet in de les? +
+  Zij voelt zich niet lekker.
+
+==== p.173 hoofdstuk 12 Dialoog
+de Evenementenhal
+buschauffeur
+instappen
+tegenover
+oversteken
+plattegrond
+beneden
+rechtdoor
+
+==== p.174 oef 1
+. Waar heeft Kirsten gegaan?
+. Wat heeft Kirsten je gevraagd? (aan je?)
+. Kan je beter naar de evenementenhal lopen of met tram gaan?
+. Met welke lijn mag Kirsten naar de evenementenhal gaan?
+. Waar is de Wandelbeurs?
+. Wat heeft de portier aan Kirsten gegeven?
+. Waar zijn de toiletten?
 
 
 <<<
