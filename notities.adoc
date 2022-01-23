@@ -796,7 +796,8 @@ Werk in tweetallen. Beantwoord de vragen.
   Nee, hij interesseert *zich* niet voor dit soort films.
 
 ==== p.164 oef 7
-Hij herinnert zich ook niets. (is niet ook goed?)
+Hij herinnert zich ook niets.
+Hij herinnert zich het wachtwoord ook niet.
 
 ==== p.166 oef 8
 . Wat voor muziek vind je leuk? +
@@ -830,6 +831,10 @@ rechtdoor
 . Waar is de Wandelbeurs?
 . Wat heeft de portier aan Kirsten gegeven?
 . Waar zijn de toiletten?
+
+Je mag niet de auto hier parkeren.
+Dat mag. Dat mag niet.
+
 
 
 <<<
