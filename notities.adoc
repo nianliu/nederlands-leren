@@ -394,6 +394,29 @@ Weten and kennen, both which mean ‘to know’ are one of the hardest pairs to 
 
 - Ik weet waar het museum is. (I know where the museum is.)
 
+== De weg vragen en wijzen
+=== De weg vragen
+- Mag ik u iets u vragen?
+- Bent u hier bekend?
+- Weet u waar ... is?
+- Ik zoek ...
+
+=== De weg wijzen
+
+- Bij de stoplichten linksaf / rechtaf.
+- Bij het kruispunt rechtdoor.
+- Je staat met je rug naar station.
+- Volg de weg / de bordjes.
+- ... is aan je rechterhand / linkerhand.
+- ... is aan de rechterkant / linkerkant.
+- U gaat hier rechtdoor.
+- U steekt de straat over.
+- U gaat linksaf / rechtaf.
+- Ann het eind van de straat gaat u linksaf / rechtaf.
+- U neemt de eerste / tweede / derde straat rechts / links.
+- U gaat de trap op naar boven.
+- U gaat de trap af naar beneden.
+- U gaat in die richting.
 
 
 <<<
@@ -865,7 +888,22 @@ Dat mag. Dat mag niet.
 . Wanneer komen je ouders aan?
 . Wanneer zullen we met de les verdergaan? (of verder gaan?)
 
-==== Oef 8
+==== p. 178 Oef 8
+Beste Irina,
+
+U moet bij Amsterdam Centraal Station uitstappen. Dan kunt u de tram 26 nemen. U moet bij Ijburg uitstappen. Die is de laatste halte van de lijn. De tram stopt naast een park, Theo van Goghpark. Mijn huis is aan de andere van het park.
+
+Groeten,
+Peter
+
+==== p.179 Oef 9
+. Vanaf welke leeftijd moet je een kaartje kopen? +
+  13 jaar
+. Kun je bij de Fiets en Wandelbeurs parkeren? +
+  Ja
+. Hoelang duurt de Fiets en Wandelbeurs? +
+  De Fiets en Wandelbeurs duurt 7 uren.
+. Je wil graag gaan fietsen in Nieuw-Zeeland. Is de Fiets en Wandelbeurs dan interessant voor jou? +
 
 
 
