@@ -11,7 +11,7 @@ https://zichtbaarnederlands.nl/nl/zinsbouw/zinsbouw
 
 === De hoofdzin
 
-`*wie/wat + weerkwoord + wanneer + object + waar*` +
+`*wie/wat + werkwoord + wanneer + object + waar*` +
 Jij eet vandaag een appel op school.
 
 `Na de woorden: *want*, *maar*, *en*, *of*, *dus*.` +
@@ -190,6 +190,52 @@ Die infinitief staat meestal aan het einde van de zin.
 
 * Ik will graag koffie.
 * Ik moet naar de les.
+
+== Graag / Liever / Het liefst
+
+=== Zinsbouw
+[cols=3]
+|===
+| *graag* | *liever* | *het liefst*
+| `[wie/wat] [werkwoord] *graag* [rest]`
+| `[wie/wat] [werkwoord] *liever* [rest] (dan ...)`
+| `[wie/wat] [werkwoord] *het liefst* [rest]`
+| Tom eet graag vlees.
+| Ze eten liever groente dan vlees.
+| We eten het liefst vis.
+| Jip studeert graat in de bibliotheek.
+| Esther gaat liever met de trein dan met de auto naar haar werk.
+| Simon werk het liefst alleen.
+|===
+
+=== Ik wil graag
+[cols=3]
+|===
+| ik wil = direct
+| graag = polite
+| zou graag = would like = event more polite
+| Ik *wil* een ijsje!
+| Ik *wil graag* een ijsje.
+| Ik *zou graag* een ijsje *willen*.
+| We *willen* een pauze.
+| We *willen graag* een pauze.
+| We *zouden graag* een pauze *willen*.
+
+|===
+
+=== Other ways to express "like something"
+
+[cols=2]
+|===
+.3+| I like tea.
+| Ik *drink graag* thee.
+| Ik *hou van* thee.
+| Ik *vind* thee *lekker*.
+.3+| I like classic music.
+| Ik *luister graag* klassieke muziek.
+| Ik *hou van* klassieke muziek.
+| Ik *vind* klassieke muziek *mooi / goed*.
+|===
 
 == Perfectum
 `*hebben* / *zijn* + participium van een werkwoord`
