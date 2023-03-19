@@ -1,8 +1,9 @@
 root = $(shell pwd)
 msg = "deploy"
-file = "notities"
-adoc = ${file}.adoc
-html = ${file}.html
+docs_folder = docs
+file = notities
+adoc = ${docs_folder}/${file}.adoc
+html = ${docs_folder}/${file}.html
 docker_run = docker run --rm -v ${root}:/documents/ asciidoctor/docker-asciidoctor
 	
 all: index git
@@ -14,7 +15,7 @@ pdf:
 	${docker_run} asciidoctor-pdf ${adoc}
 
 index: html
-	cp ${html} index.html
+	cp ${html} ${docs_folder}/index.html
 
 git:
 	git add -A
