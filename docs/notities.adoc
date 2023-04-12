@@ -178,7 +178,19 @@ https://www.rekenen.nl/klokkijken/analoge-klok
 |===
 
 == Modale werkwoorden
-=== Met infinitief
+[cols=6]
+|===
+|                       | *mogen* | *willen* | *moeten* | *kunnen* | *zullen*
+| ik | mag | wil | moet | kan | zal
+| jij / je/ u | mag | wil / wilt | moet | kan / kunt | zal / zult
+| hij / zij / ze / het | mag | wil | moet | kan | zal
+| wij / we | mogen | willen | moeten | kunnen | zullen
+| jullie | mogen | willen | moeten | kunnen | zullen
+| zij / ze | mogen | willen | moeten | kunnen | zullen
+|===
+
+*Met infinitief*
+
 Vaak komt er een infinitief na een modaal werkwoord.
 Die infinitief staat meestal aan het einde van de zin.
 
@@ -186,7 +198,7 @@ Die infinitief staat meestal aan het einde van de zin.
 * Mag ik jouw soep ook even proeven?
 * We moeten oefening 3 ook maken.
 
-=== Zonder infinitief
+*Zonder infinitief*
 
 * Ik will graag koffie.
 * Ik moet naar de les.
@@ -197,9 +209,9 @@ Die infinitief staat meestal aan het einde van de zin.
 [cols=3]
 |===
 | *graag* | *liever* | *het liefst*
-| `[wie/wat] [werkwoord] *graag* [rest]`
-| `[wie/wat] [werkwoord] *liever* [rest] (dan ...)`
-| `[wie/wat] [werkwoord] *het liefst* [rest]`
+| `[wie/wat] + [werkwoord] + *graag* + [rest]`
+| `[wie/wat] + [werkwoord] + *liever* + [rest] + (dan ...)`
+| `[wie/wat] + [werkwoord] + *het liefst* + [rest]`
 | Tom eet graag vlees.
 | Ze eten liever groente dan vlees.
 | We eten het liefst vis.
@@ -236,6 +248,24 @@ Die infinitief staat meestal aan het einde van de zin.
 | Ik *hou van* klassieke muziek.
 | Ik *vind* klassieke muziek *mooi / goed*.
 |===
+
+=== zou
+==== Beleefde vraag
+
+|===
+| Zou + willen + infinitief
+
+| Zou je mij willen helpen?
+
+| `Zou + mogen (+ infiditief)`
+
+
+
+`Zou + kunnen + infinitief`
+
+|===
+
+==== Wensen
 
 == Perfectum
 `*hebben* / *zijn* + participium van een werkwoord`
@@ -463,6 +493,19 @@ Weten and kennen, both which mean ‘to know’ are one of the hardest pairs to 
 - U gaat de trap op naar boven.
 - U gaat de trap af naar beneden.
 - U gaat in die richting.
+
+=== Dit / Deze / Dat / Die
+
+[cols=3]
+|===
+| | *Hier* | *Daar*
+| de | Dit boek is goedkoop | Dat boek is duur
+| het | Deze broek is goedkoop | Die broek is duur
+| | *Hier* | *Daar*
+|enkelvoud | Dit is mijn jas | Dat is jouw jas (enkelvoud)
+| meervoud | Dit zijn  mijn broeken | Dat zijn jouw boeken
+|===
+
 
 
 <<<
@@ -978,6 +1021,8 @@ Peter
 | Ik snap het!
 | Ik begrijp het!
 | Duidelijk!
+| Ik wil me niet ergeren aan al die spullen, maar ik die het wel.
+| Ik wil geen gevaarlijk dier zijn.
 |===
 
 === Verstaan / Begrijpen niet (Nederlands in gang p.145)
