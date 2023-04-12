@@ -494,7 +494,7 @@ Weten and kennen, both which mean ‘to know’ are one of the hardest pairs to 
 - U gaat de trap af naar beneden.
 - U gaat in die richting.
 
-=== Dit / Deze / Dat / Die
+== Dit / Deze / Dat / Die
 
 [cols=3]
 |===
