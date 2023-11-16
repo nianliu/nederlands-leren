@@ -499,8 +499,8 @@ Weten and kennen, both which mean ‘to know’ are one of the hardest pairs to 
 [cols=3]
 |===
 | | *Hier* | *Daar*
-| de | Dit boek is goedkoop | Dat boek is duur
-| het | Deze broek is goedkoop | Die broek is duur
+| de | Deze broek is goedkoop | Die broek is duur
+| het | Dit boek is goedkoop | Dat boek is duur
 | | *Hier* | *Daar*
 |enkelvoud | Dit is mijn jas | Dat is jouw jas (enkelvoud)
 | meervoud | Dit zijn  mijn broeken | Dat zijn jouw boeken
