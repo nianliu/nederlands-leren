@@ -511,6 +511,72 @@ Weten and kennen, both which mean ‘to know’ are one of the hardest pairs to 
 <<<
 
 == Huiswerk
+=== Huiswerk 2023-11-10
+==== vragen
+- Al snel hadden we toen het plan om een jaar lang door Nederland te reizen om te zien of we hier ook avonturen konden beleven. (Wat is de hoofdzin?)
+- We wilden eerst die verre landen bezoeken en darten niet aan Nederland. (die, verre)
+- Door onze reizen wisten we dat het niet vanzelfsprekend is hoe het hier gaat en wat je allemaal ziet. (Betekenis)
+- We gaan een paar weken weg is het wel leuk om zo lang door Nederland te zwerven? (Wanneer gebruik je wel)
+- Helaas is er toen een onder de auto gekomen. (waarom toen)
+- Maar tegenslagen zijn op zich niet erg (op zich) in it self, by itself
+- check (?) below
+
+==== p100 scheidbaar werkwoord
+
+Ik zoek het telefoonnummer op.
+Ik zocht  ... op.
+Ik heb het telefoonnummer opgezocht.
+Ik denk dat ik het telefoonnummer opzoek. (?)
+Het is makkelijk om het telefoonnummer **op** te zoeken. (?)
+Ik moet het telefoonnummer opzoeken.
+Ik hoef geen telefoonnummer op te zoeken. (?)
+
+Hij raakt de hond aan.
+Hij raakte de hond aan.
+Hij heeft de hond aangeraakt.
+Hij zegt dat hij de hond aanraken.
+Het is leuk om de hond aan te raken.
+Hij mag de hond niet aanraken. (?)
+Hij hoeft de hond niet aan te raken.
+
+Wij brengen de vakantie in eigen land door.
+Wij brachten de vakantie in eigen land door.
+Wij hebben de vakantie in eigen land doorgebracht.
+Wij denken dat wij de vakantie in eigen land doorbrengen.
+Het is geen probleem om de vakantie in eigen land door te brengen.
+Wij zullen de vakantie in eigen land doorbrengen.
+Wij hoeven geen vakantie in eigen land door te brengen. (?)
+Wij hoeven de vakantie niet in eigen land door te brengen. (?)
+
+==== p104 Op24
+1. De deur van mijn kamer stond open, daarom liep hij bij mij binnen.
+2. Ahmad had te veel eten gemaakt, dus we hebben niet alles opgekregen.
+3. Vandaag gaan we trouwen! Ik heb wel twee jaar naar deze dag uitgekeken.
+4. Tina en Sam zijn vandaag langsgekomen, helaas was je niet thuis.
+5. Heb je met oud en nieuw vuurwerk afgestoken?
+6. Wat we gingen besluiten, [.line-through]#hingen# hing van het weer af.
+7. We hebben straks een afspraak op Kerkplein 6. Heb jij opgezocht waar dat is?
+8. Ze zei vroeger altijd dat we bij haar [.line-through]#uitscholden# terechtkonden als we problemen hadden.
+9. Waar hebben jullie het weekend [.line-through]#terechtgekund# doorgebracht, in Groningen of in Amsterdam?
+10. Sorry, u bent een week te laat, het congres heeft vorige week al plaatsgevonden.
+11. Ik heb gehoord dat er een heel leuke band op dat feest optrad.
+12. Hoe laat zijn jullie gisteren thuisgekomen? Het was na 24.00 uur.
+13. Hebben jullie de honden al uitgelaten?
+14. Werd jij als kind vroeger **uitgescholden**?
+
+==== p105 op25
+1. Tamara zei dat ik mijn telefoon niet mocht gebruiken. Ze verbood me dat.
+2. Ze zijn samengekomen om fest te vieren.
+3. Wie heeft dat leuke project bedacht?
+4. Hij heeft de tekst uit zijn hoofd opgezegd.
+5. Hoe laat begon het vuurwerk gisteren?
+6. Wat fijn dat jullie die problemen hebben [.line-through]#overgewonnen# overwonnen.
+7. Uit onderzoek is gebleken dat de meeste toeristen in Nederland hier een week blijven.
+8. Wanneer heb je besloten om naar het buitenland te gaan?
+9. Waar is die traditie uit voortgekomen?
+10. Tijdens het feest kon niemand stilstaan, iedereen bewoog op de muziek.
+
+
 === Les 1 (25/10/2021)
 ==== Vraagwoorden (Nederlands in gang p.37 - h2 - opdracht 3)
 [cols=2,grid=none]
